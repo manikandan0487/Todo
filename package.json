@@ -16,6 +16,7 @@
     "react-dnd-touch-backend": "^16.0.1",
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.1",
+    "react-responsive": "^10.0.0",
     "uuid": "^10.0.0"
   },
   "devDependencies": {
